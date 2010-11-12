@@ -1,7 +1,7 @@
 {
   "name":"multifn",
   "mappings": {
-    "matchjs": "jar:https://github.com/jfd/match-js/zipball/master!match.js",
+    "matchjs": "jar:https://github.com/jfd/match-js/zipball/master!/match.js",
     "underscore": "jar:https://github.com/documentcloud/underscore/zipball/1.1.2!/underscore.js"
   }
 }
